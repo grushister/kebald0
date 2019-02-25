@@ -1,1 +1,1 @@
-web: gunicorn kebald.wsgi
+web: gunicorn wsgi.py
