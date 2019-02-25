@@ -1,2 +1,2 @@
 Django==2.1
-Spirit==0.7.1
+django-spirit==0.7.0
